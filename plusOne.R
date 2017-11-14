@@ -1,3 +1,3 @@
 plusOne <- function(x){
-  s+1
+  return(x+1)
 }
